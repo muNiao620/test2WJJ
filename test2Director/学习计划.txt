@@ -1,0 +1,36 @@
+=== 7.16 ===
+
+1.注册github账号
+
+2.学习sublime教程
+w3school
+注意：mac下某些ctrl为cmd
+
+3.学习github基本命令
+git clone 
+
+git pull
+
+git add .
+git commit -m
+git push
+
+4. 继续熟悉Mac快捷键
+
+
+=== 7.17 ===
+了解nodejs：服务端js
+了解vue：最流行最简单的js前端框架
+下载并了解sketch: UI与原型设计工具（先不弄）
+安装AI/PHOTOSHOP
+
+
+进阶：
+node -> postgresql,nginx
+
+Vue -> react hooks(函数组件)
+
+各种语言（c系列，JAVA系列）
+
+ES6 1,2
+Babel & webpack
